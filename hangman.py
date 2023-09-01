@@ -1,5 +1,5 @@
 import random
-words = ['reddit', 'instagram','whatsapp','snapchat','twitter','facebook']
+words = ['reddit', 'instagram','whatsapp','snapchat','twitter','facebook','pneumatic', 'psycotic', 'khandelwal']
 
 state1 = '''---------
 |   |
